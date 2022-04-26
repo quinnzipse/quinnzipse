@@ -4,7 +4,7 @@
 - 👀 I’m interested in Cybersecurity, Machine Learning, Computer Vision, and Web Development!
 - 🌱 In my free time, I am learning GoLang 
 - 💞️ I’m looking to collaborate on any open source web development or golang project.
-- 📫 How to reach me: email me at qzipse@outlook.com
+- 📫 Reach out on LinkedIn: https://www.linkedin.com/in/quinnzipse/
 - 🌎 Check out my website: https://quinnzipse.dev/
 <!---
 quinnzipse/quinnzipse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
