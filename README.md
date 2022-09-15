@@ -1,9 +1,8 @@
 ## 👋 Hi, I’m Quinn Zipse
 
-- 🏫 I'm currently studying Computer Science at University of Wisconsin - La Crosse
-- 👀 I’m interested in Cybersecurity, Machine Learning, Computer Vision, and Web Development!
-- 🌱 In my free time, I am learning GoLang 
-- 💞️ I’m looking to collaborate on any open source web development or golang project.
+- 🏫 I am a recent grad from University of Wisconsin - La Crosse with a BS in Computer Science. 
+- 👀 I’m interested in Free Software, Cybersecurity, Machine Learning, Computer Vision, and Web Development! 
+- 💞️ I’m looking to collaborate on open source web development.
 - 📫 Reach out on LinkedIn: https://www.linkedin.com/in/quinnzipse/
 - 🌎 Check out my website: https://quinnzipse.dev/
 <!---
