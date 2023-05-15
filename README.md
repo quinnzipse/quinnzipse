@@ -2,7 +2,7 @@
 
 - 🏫 I graduated in 2022 from University of Wisconsin - La Crosse with a BS in Computer Science. 
 - 👀 I’m interested in Free Software, Cybersecurity, Machine Learning, Computer Vision, and Web Development! 
-- 💞️ I’m looking to collaborate on open source web development.
+- 💞️ I’m always looking to contribute to open source web development.
 - 📫 Reach out on LinkedIn: https://www.linkedin.com/in/quinnzipse/
 - 🌎 Check out my website: https://quinnzipse.dev/
 <!---
