@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Quinn Zipse
 
-- 🏫 I am a recent grad from University of Wisconsin - La Crosse with a BS in Computer Science. 
+- 🏫 I graduated in 2022 from University of Wisconsin - La Crosse with a BS in Computer Science. 
 - 👀 I’m interested in Free Software, Cybersecurity, Machine Learning, Computer Vision, and Web Development! 
 - 💞️ I’m looking to collaborate on open source web development.
 - 📫 Reach out on LinkedIn: https://www.linkedin.com/in/quinnzipse/
